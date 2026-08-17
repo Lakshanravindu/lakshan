@@ -13,7 +13,7 @@
 
 ---
 
-Results-driven Full Stack Developer with **3+ years** of experience building and shipping production SaaS platforms. I specialise in **Next.js**, **TypeScript**, and cloud-native stacks — Supabase, AWS-CDK, Vercel. Currently open to **full-time remote or on-site opportunities in Europe**.
+Results-driven Full Stack Developer with **3+ years** of experience building and shipping production SaaS platforms. I specialise in **Next.js**, **TypeScript**, and cloud-native stacks (Supabase, AWS-CDK, Vercel). Currently open to **full-time remote opportunities**.
 
 ---
 
@@ -44,6 +44,7 @@ Results-driven Full Stack Developer with **3+ years** of experience building and
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
+| **LumiDoc** | AI document Q&A platform · RAG pipeline with hybrid search, real-time streaming, inline citations | Next.js 15 · Supabase pgvector · Claude API · Voyage AI | [Live Demo](https://lumidoc.vercel.app) · [GitHub](https://github.com/Lakshanravindu/lumidoc) |
 | **CloudMartPro** | Multi-tenant retail SaaS · POS, HRM, Inventory, Accounting | Next.js · Supabase · Cloudflare · LemonSqueezy | [cloudmartpro.com](https://cloudmartpro.com) |
 | **Affooh** | Enterprise project management SaaS · Real-time collaboration, sprints, RBAC | React · Next.js · AWS-CDK · TypeScript · MySQL | [app.affooh.com](https://app.affooh.com) |
 | **VertoNote** | Bilingual (Sinhala/English) community blog · 10k+ MAU · 98% uptime | Next.js · TypeScript · Supabase | [vetronote.com](https://vetronote.com) |
@@ -65,6 +66,6 @@ Results-driven Full Stack Developer with **3+ years** of experience building and
 
 <div align="center">
 
-**Open to relocation · Available for remote work · EU opportunities welcome**
+**Open to full-time remote opportunities · Full Stack / Frontend / Backend**
 
 </div>
